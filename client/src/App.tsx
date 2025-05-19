@@ -2,7 +2,6 @@
 
 import type React from "react"
 import { useState, useRef, useEffect } from "react"
-import axios from "axios"
 import { Terminal, ChevronRight, Loader, X, Minus, Square } from "lucide-react"
 
 interface Message {
