@@ -171,7 +171,7 @@ const App: React.FC = () => {
                 textShadow: "0 0 10px rgba(228, 241, 255, 0.3)",
               }}
             >
-              Gemini AI Terminal
+              Sahil's AI Terminal
             </span>
           </div>
           <div style={{ display: "flex", gap: "0.75rem" }}>
@@ -253,7 +253,7 @@ const App: React.FC = () => {
                   textShadow: "0 0 10px rgba(228, 241, 255, 0.3)",
                 }}
               >
-                Gemini AI Terminal v1.0
+                Sahil's AI Terminal v1.0
               </h2>
               <p style={{ maxWidth: "500px", lineHeight: 1.6, opacity: 0.8 }}>
                 Welcome to the terminal interface. Type your query below and press Enter to begin.
@@ -268,7 +268,7 @@ const App: React.FC = () => {
                   fontFamily: "monospace",
                 }}
               >
-                <code>$ gemini --interactive --mode=chat</code>
+                <code> gemini --interactive --mode=chat</code>
               </div>
             </div>
           ) : (
